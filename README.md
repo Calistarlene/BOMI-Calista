@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# bomi-frontend
+Credits to Catherine Danielle who have started the project, and the front-line front end engineer to this project in which i modified (shown in this repo)
 # bomi-backend
 This is the repository for a project called BOMI, to count your BMI, and this is the backend of it.
 =======
